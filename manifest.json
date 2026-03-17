@@ -1,0 +1,26 @@
+{
+  "name": "HFalak - Centre ORL",
+  "short_name": "HFalak",
+  "description": "Application de gestion ORL / Audiologie",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1714",
+  "theme_color": "#1a1714",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='42' fill='%231a1714'/><ellipse cx='96' cy='92' rx='42' ry='50' stroke='%237eceba' stroke-width='11' fill='none'/><path d='M96 50 C73 50 54 65 54 92 C54 115 69 130 84 130 C84 130 84 142 73 154' stroke='%237eceba' stroke-width='11' stroke-linecap='round' fill='none'/><circle cx='96' cy='92' r='15' fill='%237eceba'/><path d='M127 61 C138 73 138 111 127 123' stroke='%237eceba' stroke-width='9' stroke-linecap='round' fill='none' opacity='0.6'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='112' fill='%231a1714'/><ellipse cx='256' cy='245' rx='112' ry='133' stroke='%237eceba' stroke-width='28' fill='none'/><path d='M256 133 C194 133 144 173 144 245 C144 306 183 346 224 346 C224 346 224 378 194 410' stroke='%237eceba' stroke-width='28' stroke-linecap='round' fill='none'/><circle cx='256' cy='245' r='40' fill='%237eceba'/><path d='M338 163 C368 194 368 296 338 327' stroke='%237eceba' stroke-width='24' stroke-linecap='round' fill='none' opacity='0.6'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "productivity"],
+  "lang": "fr"
+}
